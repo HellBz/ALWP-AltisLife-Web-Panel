@@ -17,7 +17,9 @@ To use this panel, choose one of the following options to get started:
 
 ## Install
 
-Simple ! First, include all the files downloaded into your directory. Then import the sql file `install.sql` into your server database. It will self alter, and create all the features required by the panel.
+First ! `bower install` to download all dependencies from the project
+
+Then import the sql file `install.sql` into your server database. It will self alter, and create all the features required by the panel.
 
 You will now have to go to `class/config.php` and change this following code to match your database user
 
