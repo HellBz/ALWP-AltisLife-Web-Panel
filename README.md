@@ -2,8 +2,8 @@
 
 ALWP is a sandbox web panel made to manage any AltisLife server. Merging strong backend using PHP and a simple bootstrap integration, ALWP is made to be 100% editable to match any of your ideas anytime, anywhere.
 
-> **Note**
-> This panel is made for [AltisFrance](http://altisfrance.fr/) and all the features included in this panel are directly made for this server. Therefore it is not impossible that you will find some difficulties installing this panel of a different server and need to alter my code to use ALWP on your server. If you need any help regarding the installation feel free to contact me for assistance.
+> **Note**  
+> This panel is made for [AltisFrance](http://altisfrance.fr/) and all the features included in this panel are directly made for this server. Therefore it is not impossible that you will find some difficulties installing this panel of a different server and need to alter my code to use ALWP on your server. If you need any help regarding the installation feel free to contact me for assistance.  
 > Oh ! And you'll probably see some french in there, sorry for that : )
 
 
