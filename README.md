@@ -23,15 +23,15 @@ Then import the sql file `install.sql` into your server database. It will self a
 
 You will now have to find `/class/config.php` and change this following code to match your database user
 
-`define("DB_HOST", "localhost");
-define("DB_NAME", "altisfrance");
-define("DB_USER", 'root');
-define("DB_PASSWORD", 'root');`
+`define("DB_HOST", "localhost");  
+define("DB_NAME", "altisfrance");  
+define("DB_USER", 'root');  
+define("DB_PASSWORD", 'root');`  
 
 When ALWP is installed and your database informations are set you only need to go on your web server and log yourself using theses credentials :
 
-**Login : admin**
-**Password : admin**
+**Login : admin**  
+**Password : admin**  
 
 ## Cronjobs
 
