@@ -17,11 +17,11 @@ To use this panel, choose one of the following options to get started:
 
 ## Install
 
-First ! `bower install` to download all dependencies from the project
+First ! Include all files downloaded. Optional : You can `bower install` to update all dependencies for possible new content.
 
-Then import the sql file `install.sql` into your server database. It will self alter, and create all the features required by the panel.
+Then import the sql file `install.sql` into your server database. It will self alter and create all the tables, columns and stuff required by the panel.
 
-You will now have to go to `class/config.php` and change this following code to match your database user
+You will now have to find `/class/config.php` and change this following code to match your database user
 
 `define("DB_HOST", "localhost");
 define("DB_NAME", "altisfrance");
@@ -51,7 +51,7 @@ Basically self managing itself like donations but you'll need to setup your rewa
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? Open a new issue on GitHub or leave me an email here : arthur@touzard.fr
+Have a bug or an issue with this panel ? Open a [new issue on GitHub](https://github.com/atouzard/ALWP-AltisLife-Web-Panel/issues) or leave me an email here : arthur@touzard.fr
 
 ## Creator
 
@@ -65,7 +65,7 @@ ALWP is using [Bootstrap](http://getbootstrap.com/) framework created by [Mark O
 
 ## Copyright and License
 
-Copyright 2015-2016 Arthur Touzard.
+**Copyright 2015-2016 Arthur Touzard.**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
