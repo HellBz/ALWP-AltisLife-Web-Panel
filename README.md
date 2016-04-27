@@ -12,8 +12,8 @@ ALWP is a sandbox web panel made to manage any AltisLife server. Merging strong 
 ## Getting Started
 
 To use this panel, choose one of the following options to get started:
-* Download the latest release on Github
-* Fork this repository on GitHub
+* Download the [latest release on Github.](https://github.com/atouzard/ALWP-AltisLife-Web-Panel/releases/tag/v1)
+* Fork this repository on GitHub.
 
 ## Install
 
