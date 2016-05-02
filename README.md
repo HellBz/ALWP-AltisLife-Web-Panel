@@ -61,8 +61,8 @@ ALWP was created by and is maintained by **Arthur Touzard**, Admin of [AltisFran
 * https://github.com/atouzard
 * http://touzard.fr
 
-ALWP is using [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-Licenses work inspired by [Panel-AltisLife-GAMEWAVE](https://github.com/BloodMotion/Panel-AltisLife-GAMEWAVE)
+ALWP is using [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).  
+Licenses work inspired by [Panel-AltisLife-GAMEWAVE](https://github.com/BloodMotion/Panel-AltisLife-GAMEWAVE).  
 
 ## Copyright and License
 
