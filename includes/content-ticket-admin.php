@@ -40,7 +40,7 @@
     <div class="row">
         <div class="col-lg-12 page-header">
             <h1 class="inline-block m-0">Tickets n°<?= $ticket->id." : ".$ticket->type." (".date("d/m/Y H\hi",strtotime($ticket->date)).")" ?></h1>
-            <?php if(empty($ticket->staff_id or $admin->status==2)){ ?><button data-id="<?= $ticket->id ?>" id="pick-ticket" type="button" name="submit" class="mlr-5 float-right btn btn-success btn-lg">Prendre Ticket</button>
+            <?php if(empty($ticket->staff_id) or $admin->status==2){ ?><button data-id="<?= $ticket->id ?>" id="pick-ticket" type="button" name="submit" class="mlr-5 float-right btn btn-success btn-lg">Prendre Ticket</button>
             <?php }elseif($isMyTicket or $admin->status==2){ ?><button id="submit-form" type="button" name="submit" class="float-right btn btn-primary btn-lg">Enregistrer</button><?php } ?>
         </div>
         <!-- /.col-lg-12 -->
